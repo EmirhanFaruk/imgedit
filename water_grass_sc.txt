@@ -1,0 +1,573 @@
+
+# Modification date: Sat Jan  1 00:16:42 2022
+
+# Production date: Sun Sep  3 15:43:47 2023
+
+
+
+
+
+
+Water screenshots: 74
+['sc_100.png', 'sc_114.png', 'sc_135.png', 'sc_137.png', 'sc_138.png', 'sc_140.png', 'sc_141.png', 'sc_142.png', 'sc_143.png', 'sc_144.png', 'sc_148.png', 'sc_149.png', 'sc_15.png', 'sc_152.png', 'sc_153.png', 'sc_154.png', 'sc_159.png', 'sc_160.png', 'sc_18.png', 'sc_182.png', 'sc_192.png', 'sc_193.png', 'sc_194.png', 'sc_195.png', 'sc_196.png', 'sc_197.png', 'sc_198.png', 'sc_20.png', 'sc_200.png', 'sc_203.png', 'sc_211.png', 'sc_214.png', 'sc_215.png', 'sc_217.png', 'sc_218.png', 'sc_232.png', 'sc_233.png', 'sc_234.png', 'sc_24.png', 'sc_249.png', 'sc_253.png', 'sc_260.png', 'sc_261.png', 'sc_265.png', 'sc_266.png', 'sc_268.png', 'sc_269.png', 'sc_270.png', 'sc_28.png', 'sc_280.png', 'sc_281.png', 'sc_282.png', 'sc_29.png', 'sc_295.png', 'sc_3.png', 'sc_30.png', 'sc_303.png', 'sc_31.png', 'sc_311.png', 'sc_312.png', 'sc_317.png', 'sc_33.png', 'sc_34.png', 'sc_35.png', 'sc_37.png', 'sc_61.png', 'sc_62.png', 'sc_65.png', 'sc_70.png', 'sc_81.png', 'sc_95.png', 'sc_97.png', 'sc_98.png', 'sc_99.png']
+
+
+Grass screenshots: 0
+[]
+
+
+Other screenshots: 253
+['sc_1.png', 'sc_10.png', 'sc_101.png', 'sc_102.png', 'sc_103.png', 'sc_104.png', 'sc_105.png', 'sc_106.png', 'sc_107.png', 'sc_108.png', 'sc_109.png', 'sc_11.png', 'sc_110.png', 'sc_111.png', 'sc_112.png', 'sc_113.png', 'sc_115.png', 'sc_116.png', 'sc_117.png', 'sc_118.png', 'sc_119.png', 'sc_12.png', 'sc_120.png', 'sc_121.png', 'sc_122.png', 'sc_123.png', 'sc_124.png', 'sc_125.png', 'sc_126.png', 'sc_127.png', 'sc_128.png', 'sc_129.png', 'sc_13.png', 'sc_130.png', 'sc_131.png', 'sc_132.png', 'sc_133.png', 'sc_134.png', 'sc_136.png', 'sc_139.png', 'sc_14.png', 'sc_145.png', 'sc_146.png', 'sc_147.png', 'sc_150.png', 'sc_151.png', 'sc_155.png', 'sc_156.png', 'sc_157.png', 'sc_158.png', 'sc_16.png', 'sc_161.png', 'sc_162.png', 'sc_163.png', 'sc_164.png', 'sc_165.png', 'sc_166.png', 'sc_167.png', 'sc_168.png', 'sc_169.png', 'sc_17.png', 'sc_170.png', 'sc_171.png', 'sc_172.png', 'sc_173.png', 'sc_174.png', 'sc_175.png', 'sc_176.png', 'sc_177.png', 'sc_178.png', 'sc_179.png', 'sc_180.png', 'sc_181.png', 'sc_183.png', 'sc_184.png', 'sc_185.png', 'sc_186.png', 'sc_187.png', 'sc_188.png', 'sc_189.png', 'sc_19.png', 'sc_190.png', 'sc_191.png', 'sc_199.png', 'sc_2.png', 'sc_201.png', 'sc_202.png', 'sc_204.png', 'sc_205.png', 'sc_206.png', 'sc_207.png', 'sc_208.png', 'sc_209.png', 'sc_21.png', 'sc_210.png', 'sc_212.png', 'sc_213.png', 'sc_216.png', 'sc_219.png', 'sc_22.png', 'sc_220.png', 'sc_221.png', 'sc_222.png', 'sc_223.png', 'sc_224.png', 'sc_225.png', 'sc_226.png', 'sc_227.png', 'sc_228.png', 'sc_229.png', 'sc_23.png', 'sc_230.png', 'sc_231.png', 'sc_235.png', 'sc_236.png', 'sc_237.png', 'sc_238.png', 'sc_239.png', 'sc_240.png', 'sc_241.png', 'sc_242.png', 'sc_243.png', 'sc_244.png', 'sc_245.png', 'sc_246.png', 'sc_247.png', 'sc_248.png', 'sc_25.png', 'sc_250.png', 'sc_251.png', 'sc_252.png', 'sc_254.png', 'sc_255.png', 'sc_256.png', 'sc_257.png', 'sc_258.png', 'sc_259.png', 'sc_26.png', 'sc_262.png', 'sc_263.png', 'sc_264.png', 'sc_267.png', 'sc_27.png', 'sc_271.png', 'sc_272.png', 'sc_273.png', 'sc_274.png', 'sc_275.png', 'sc_276.png', 'sc_277.png', 'sc_278.png', 'sc_279.png', 'sc_283.png', 'sc_284.png', 'sc_285.png', 'sc_286.png', 'sc_287.png', 'sc_288.png', 'sc_289.png', 'sc_290.png', 'sc_291.png', 'sc_292.png', 'sc_293.png', 'sc_294.png', 'sc_296.png', 'sc_297.png', 'sc_298.png', 'sc_299.png', 'sc_300.png', 'sc_301.png', 'sc_302.png', 'sc_304.png', 'sc_305.png', 'sc_306.png', 'sc_307.png', 'sc_308.png', 'sc_309.png', 'sc_310.png', 'sc_313.png', 'sc_314.png', 'sc_315.png', 'sc_316.png', 'sc_318.png', 'sc_319.png', 'sc_32.png', 'sc_320.png', 'sc_321.png', 'sc_322.png', 'sc_323.png', 'sc_324.png', 'sc_325.png', 'sc_326.png', 'sc_327.png', 'sc_36.png', 'sc_38.png', 'sc_39.png', 'sc_4.png', 'sc_40.png', 'sc_41.png', 'sc_42.png', 'sc_43.png', 'sc_44.png', 'sc_45.png', 'sc_46.png', 'sc_47.png', 'sc_48.png', 'sc_49.png', 'sc_5.png', 'sc_50.png', 'sc_51.png', 'sc_52.png', 'sc_53.png', 'sc_54.png', 'sc_55.png', 'sc_56.png', 'sc_57.png', 'sc_58.png', 'sc_59.png', 'sc_6.png', 'sc_60.png', 'sc_63.png', 'sc_64.png', 'sc_66.png', 'sc_67.png', 'sc_68.png', 'sc_69.png', 'sc_7.png', 'sc_71.png', 'sc_72.png', 'sc_73.png', 'sc_74.png', 'sc_75.png', 'sc_76.png', 'sc_77.png', 'sc_78.png', 'sc_79.png', 'sc_8.png', 'sc_80.png', 'sc_82.png', 'sc_83.png', 'sc_84.png', 'sc_85.png', 'sc_86.png', 'sc_87.png', 'sc_88.png', 'sc_89.png', 'sc_9.png', 'sc_90.png', 'sc_91.png', 'sc_92.png', 'sc_93.png', 'sc_94.png', 'sc_96.png']
+
+
+
+
+All done in 695.8652849197388
+
+Water screenshots: 40
+['sc_100.png', 'sc_137.png', 'sc_138.png', 'sc_142.png', 'sc_143.png', 'sc_148.png', 'sc_15.png', 'sc_154.png', 'sc_192.png', 'sc_193.png', 'sc_194.png', 'sc_195.png', 'sc_196.png', 'sc_197.png', 'sc_198.png', 'sc_20.png', 'sc_200.png', 'sc_214.png', 'sc_215.png', 'sc_217.png', 'sc_218.png', 'sc_232.png', 'sc_233.png', 'sc_249.png', 'sc_253.png', 'sc_268.png', 'sc_269.png', 'sc_282.png', 'sc_295.png', 'sc_3.png', 'sc_30.png', 'sc_31.png', 'sc_311.png', 'sc_33.png', 'sc_61.png', 'sc_62.png', 'sc_70.png', 'sc_95.png', 'sc_97.png', 'sc_99.png']
+
+
+Grass screenshots: 90
+['sc_1.png', 'sc_101.png', 'sc_103.png', 'sc_104.png', 'sc_113.png', 'sc_116.png', 'sc_118.png', 'sc_126.png', 'sc_127.png', 'sc_128.png', 'sc_129.png', 'sc_130.png', 'sc_135.png', 'sc_139.png', 'sc_145.png', 'sc_157.png', 'sc_158.png', 'sc_159.png', 'sc_18.png', 'sc_182.png', 'sc_183.png', 'sc_184.png', 'sc_185.png', 'sc_186.png', 'sc_187.png', 'sc_188.png', 'sc_199.png', 'sc_2.png', 'sc_201.png', 'sc_203.png', 'sc_204.png', 'sc_207.png', 'sc_209.png', 'sc_210.png', 'sc_211.png', 'sc_22.png', 'sc_224.png', 'sc_234.png', 'sc_235.png', 'sc_237.png', 'sc_238.png', 'sc_239.png', 'sc_242.png', 'sc_243.png', 'sc_256.png', 'sc_257.png', 'sc_258.png', 'sc_260.png', 'sc_261.png', 'sc_263.png', 'sc_264.png', 'sc_265.png', 'sc_266.png', 'sc_267.png', 'sc_274.png', 'sc_28.png', 'sc_287.png', 'sc_29.png', 'sc_291.png', 'sc_292.png', 'sc_312.png', 'sc_315.png', 'sc_316.png', 'sc_321.png', 'sc_322.png', 'sc_323.png', 'sc_324.png', 'sc_325.png', 'sc_326.png', 'sc_327.png', 'sc_4.png', 'sc_5.png', 'sc_55.png', 'sc_58.png', 'sc_6.png', 'sc_63.png', 'sc_64.png', 'sc_65.png', 'sc_67.png', 'sc_68.png', 'sc_69.png', 'sc_7.png', 'sc_8.png', 'sc_80.png', 'sc_87.png', 'sc_89.png', 'sc_9.png', 'sc_92.png', 'sc_96.png', 'sc_98.png']
+
+
+Other screenshots: 197
+['sc_10.png', 'sc_102.png', 'sc_105.png', 'sc_106.png', 'sc_107.png', 'sc_108.png', 'sc_109.png', 'sc_11.png', 'sc_110.png', 'sc_111.png', 'sc_112.png', 'sc_114.png', 'sc_115.png', 'sc_117.png', 'sc_119.png', 'sc_12.png', 'sc_120.png', 'sc_121.png', 'sc_122.png', 'sc_123.png', 'sc_124.png', 'sc_125.png', 'sc_13.png', 'sc_131.png', 'sc_132.png', 'sc_133.png', 'sc_134.png', 'sc_136.png', 'sc_14.png', 'sc_140.png', 'sc_141.png', 'sc_144.png', 'sc_146.png', 'sc_147.png', 'sc_149.png', 'sc_150.png', 'sc_151.png', 'sc_152.png', 'sc_153.png', 'sc_155.png', 'sc_156.png', 'sc_16.png', 'sc_160.png', 'sc_161.png', 'sc_162.png', 'sc_163.png', 'sc_164.png', 'sc_165.png', 'sc_166.png', 'sc_167.png', 'sc_168.png', 'sc_169.png', 'sc_17.png', 'sc_170.png', 'sc_171.png', 'sc_172.png', 'sc_173.png', 'sc_174.png', 'sc_175.png', 'sc_176.png', 'sc_177.png', 'sc_178.png', 'sc_179.png', 'sc_180.png', 'sc_181.png', 'sc_189.png', 'sc_19.png', 'sc_190.png', 'sc_191.png', 'sc_202.png', 'sc_205.png', 'sc_206.png', 'sc_208.png', 'sc_21.png', 'sc_212.png', 'sc_213.png', 'sc_216.png', 'sc_219.png', 'sc_220.png', 'sc_221.png', 'sc_222.png', 'sc_223.png', 'sc_225.png', 'sc_226.png', 'sc_227.png', 'sc_228.png', 'sc_229.png', 'sc_23.png', 'sc_230.png', 'sc_231.png', 'sc_236.png', 'sc_24.png', 'sc_240.png', 'sc_241.png', 'sc_244.png', 'sc_245.png', 'sc_246.png', 'sc_247.png', 'sc_248.png', 'sc_25.png', 'sc_250.png', 'sc_251.png', 'sc_252.png', 'sc_254.png', 'sc_255.png', 'sc_259.png', 'sc_26.png', 'sc_262.png', 'sc_27.png', 'sc_270.png', 'sc_271.png', 'sc_272.png', 'sc_273.png', 'sc_275.png', 'sc_276.png', 'sc_277.png', 'sc_278.png', 'sc_279.png', 'sc_280.png', 'sc_281.png', 'sc_283.png', 'sc_284.png', 'sc_285.png', 'sc_286.png', 'sc_288.png', 'sc_289.png', 'sc_290.png', 'sc_293.png', 'sc_294.png', 'sc_296.png', 'sc_297.png', 'sc_298.png', 'sc_299.png', 'sc_300.png', 'sc_301.png', 'sc_302.png', 'sc_303.png', 'sc_304.png', 'sc_305.png', 'sc_306.png', 'sc_307.png', 'sc_308.png', 'sc_309.png', 'sc_310.png', 'sc_313.png', 'sc_314.png', 'sc_317.png', 'sc_318.png', 'sc_319.png', 'sc_32.png', 'sc_320.png', 'sc_34.png', 'sc_35.png', 'sc_36.png', 'sc_37.png', 'sc_38.png', 'sc_39.png', 'sc_40.png', 'sc_41.png', 'sc_42.png', 'sc_43.png', 'sc_44.png', 'sc_45.png', 'sc_46.png', 'sc_47.png', 'sc_48.png', 'sc_49.png', 'sc_50.png', 'sc_51.png', 'sc_52.png', 'sc_53.png', 'sc_54.png', 'sc_56.png', 'sc_57.png', 'sc_59.png', 'sc_60.png', 'sc_66.png', 'sc_71.png', 'sc_72.png', 'sc_73.png', 'sc_74.png', 'sc_75.png', 'sc_76.png', 'sc_77.png', 'sc_78.png', 'sc_79.png', 'sc_81.png', 'sc_82.png', 'sc_83.png', 'sc_84.png', 'sc_85.png', 'sc_86.png', 'sc_88.png', 'sc_90.png', 'sc_91.png', 'sc_93.png', 'sc_94.png']
+
+
+
+
+All done in 1424.0482704639435
+
+Water screenshots: 40
+['sc_100.png', 'sc_137.png', 'sc_138.png', 'sc_142.png', 'sc_143.png', 'sc_148.png', 'sc_15.png', 'sc_154.png', 'sc_192.png', 'sc_193.png', 'sc_194.png', 'sc_195.png', 'sc_196.png', 'sc_197.png', 'sc_198.png', 'sc_20.png', 'sc_200.png', 'sc_214.png', 'sc_215.png', 'sc_217.png', 'sc_218.png', 'sc_232.png', 'sc_233.png', 'sc_249.png', 'sc_253.png', 'sc_268.png', 'sc_269.png', 'sc_282.png', 'sc_295.png', 'sc_3.png', 'sc_30.png', 'sc_31.png', 'sc_311.png', 'sc_33.png', 'sc_61.png', 'sc_62.png', 'sc_70.png', 'sc_95.png', 'sc_97.png', 'sc_99.png']
+
+
+Grass screenshots: 90
+['sc_1.png', 'sc_101.png', 'sc_103.png', 'sc_104.png', 'sc_113.png', 'sc_116.png', 'sc_118.png', 'sc_126.png', 'sc_127.png', 'sc_128.png', 'sc_129.png', 'sc_130.png', 'sc_135.png', 'sc_139.png', 'sc_145.png', 'sc_157.png', 'sc_158.png', 'sc_159.png', 'sc_18.png', 'sc_182.png', 'sc_183.png', 'sc_184.png', 'sc_185.png', 'sc_186.png', 'sc_187.png', 'sc_188.png', 'sc_199.png', 'sc_2.png', 'sc_201.png', 'sc_203.png', 'sc_204.png', 'sc_207.png', 'sc_209.png', 'sc_210.png', 'sc_211.png', 'sc_22.png', 'sc_224.png', 'sc_234.png', 'sc_235.png', 'sc_237.png', 'sc_238.png', 'sc_239.png', 'sc_242.png', 'sc_243.png', 'sc_256.png', 'sc_257.png', 'sc_258.png', 'sc_260.png', 'sc_261.png', 'sc_263.png', 'sc_264.png', 'sc_265.png', 'sc_266.png', 'sc_267.png', 'sc_274.png', 'sc_28.png', 'sc_287.png', 'sc_29.png', 'sc_291.png', 'sc_292.png', 'sc_312.png', 'sc_315.png', 'sc_316.png', 'sc_321.png', 'sc_322.png', 'sc_323.png', 'sc_324.png', 'sc_325.png', 'sc_326.png', 'sc_327.png', 'sc_4.png', 'sc_5.png', 'sc_55.png', 'sc_58.png', 'sc_6.png', 'sc_63.png', 'sc_64.png', 'sc_65.png', 'sc_67.png', 'sc_68.png', 'sc_69.png', 'sc_7.png', 'sc_8.png', 'sc_80.png', 'sc_87.png', 'sc_89.png', 'sc_9.png', 'sc_92.png', 'sc_96.png', 'sc_98.png']
+
+
+Other screenshots: 197
+['sc_10.png', 'sc_102.png', 'sc_105.png', 'sc_106.png', 'sc_107.png', 'sc_108.png', 'sc_109.png', 'sc_11.png', 'sc_110.png', 'sc_111.png', 'sc_112.png', 'sc_114.png', 'sc_115.png', 'sc_117.png', 'sc_119.png', 'sc_12.png', 'sc_120.png', 'sc_121.png', 'sc_122.png', 'sc_123.png', 'sc_124.png', 'sc_125.png', 'sc_13.png', 'sc_131.png', 'sc_132.png', 'sc_133.png', 'sc_134.png', 'sc_136.png', 'sc_14.png', 'sc_140.png', 'sc_141.png', 'sc_144.png', 'sc_146.png', 'sc_147.png', 'sc_149.png', 'sc_150.png', 'sc_151.png', 'sc_152.png', 'sc_153.png', 'sc_155.png', 'sc_156.png', 'sc_16.png', 'sc_160.png', 'sc_161.png', 'sc_162.png', 'sc_163.png', 'sc_164.png', 'sc_165.png', 'sc_166.png', 'sc_167.png', 'sc_168.png', 'sc_169.png', 'sc_17.png', 'sc_170.png', 'sc_171.png', 'sc_172.png', 'sc_173.png', 'sc_174.png', 'sc_175.png', 'sc_176.png', 'sc_177.png', 'sc_178.png', 'sc_179.png', 'sc_180.png', 'sc_181.png', 'sc_189.png', 'sc_19.png', 'sc_190.png', 'sc_191.png', 'sc_202.png', 'sc_205.png', 'sc_206.png', 'sc_208.png', 'sc_21.png', 'sc_212.png', 'sc_213.png', 'sc_216.png', 'sc_219.png', 'sc_220.png', 'sc_221.png', 'sc_222.png', 'sc_223.png', 'sc_225.png', 'sc_226.png', 'sc_227.png', 'sc_228.png', 'sc_229.png', 'sc_23.png', 'sc_230.png', 'sc_231.png', 'sc_236.png', 'sc_24.png', 'sc_240.png', 'sc_241.png', 'sc_244.png', 'sc_245.png', 'sc_246.png', 'sc_247.png', 'sc_248.png', 'sc_25.png', 'sc_250.png', 'sc_251.png', 'sc_252.png', 'sc_254.png', 'sc_255.png', 'sc_259.png', 'sc_26.png', 'sc_262.png', 'sc_27.png', 'sc_270.png', 'sc_271.png', 'sc_272.png', 'sc_273.png', 'sc_275.png', 'sc_276.png', 'sc_277.png', 'sc_278.png', 'sc_279.png', 'sc_280.png', 'sc_281.png', 'sc_283.png', 'sc_284.png', 'sc_285.png', 'sc_286.png', 'sc_288.png', 'sc_289.png', 'sc_290.png', 'sc_293.png', 'sc_294.png', 'sc_296.png', 'sc_297.png', 'sc_298.png', 'sc_299.png', 'sc_300.png', 'sc_301.png', 'sc_302.png', 'sc_303.png', 'sc_304.png', 'sc_305.png', 'sc_306.png', 'sc_307.png', 'sc_308.png', 'sc_309.png', 'sc_310.png', 'sc_313.png', 'sc_314.png', 'sc_317.png', 'sc_318.png', 'sc_319.png', 'sc_32.png', 'sc_320.png', 'sc_34.png', 'sc_35.png', 'sc_36.png', 'sc_37.png', 'sc_38.png', 'sc_39.png', 'sc_40.png', 'sc_41.png', 'sc_42.png', 'sc_43.png', 'sc_44.png', 'sc_45.png', 'sc_46.png', 'sc_47.png', 'sc_48.png', 'sc_49.png', 'sc_50.png', 'sc_51.png', 'sc_52.png', 'sc_53.png', 'sc_54.png', 'sc_56.png', 'sc_57.png', 'sc_59.png', 'sc_60.png', 'sc_66.png', 'sc_71.png', 'sc_72.png', 'sc_73.png', 'sc_74.png', 'sc_75.png', 'sc_76.png', 'sc_77.png', 'sc_78.png', 'sc_79.png', 'sc_81.png', 'sc_82.png', 'sc_83.png', 'sc_84.png', 'sc_85.png', 'sc_86.png', 'sc_88.png', 'sc_90.png', 'sc_91.png', 'sc_93.png', 'sc_94.png']
+
+-------------------------------------------------
+
+
+
+
+
+All done in 689.3620803356171
+
+Water screenshots: 0
+[]
+
+
+Grass screenshots: 0
+[]
+
+
+Other screenshots: 327
+['sc_1.png', 'sc_10.png', 'sc_100.png', 'sc_101.png', 'sc_102.png', 'sc_103.png', 'sc_104.png', 'sc_105.png', 'sc_106.png', 'sc_107.png', 'sc_108.png', 'sc_109.png', 'sc_11.png', 'sc_110.png', 'sc_111.png', 'sc_112.png', 'sc_113.png', 'sc_114.png', 'sc_115.png', 'sc_116.png', 'sc_117.png', 'sc_118.png', 'sc_119.png', 'sc_12.png', 'sc_120.png', 'sc_121.png', 'sc_122.png', 'sc_123.png', 'sc_124.png', 'sc_125.png', 'sc_126.png', 'sc_127.png', 'sc_128.png', 'sc_129.png', 'sc_13.png', 'sc_130.png', 'sc_131.png', 'sc_132.png', 'sc_133.png', 'sc_134.png', 'sc_135.png', 'sc_136.png', 'sc_137.png', 'sc_138.png', 'sc_139.png', 'sc_14.png', 'sc_140.png', 'sc_141.png', 'sc_142.png', 'sc_143.png', 'sc_144.png', 'sc_145.png', 'sc_146.png', 'sc_147.png', 'sc_148.png', 'sc_149.png', 'sc_15.png', 'sc_150.png', 'sc_151.png', 'sc_152.png', 'sc_153.png', 'sc_154.png', 'sc_155.png', 'sc_156.png', 'sc_157.png', 'sc_158.png', 'sc_159.png', 'sc_16.png', 'sc_160.png', 'sc_161.png', 'sc_162.png', 'sc_163.png', 'sc_164.png', 'sc_165.png', 'sc_166.png', 'sc_167.png', 'sc_168.png', 'sc_169.png', 'sc_17.png', 'sc_170.png', 'sc_171.png', 'sc_172.png', 'sc_173.png', 'sc_174.png', 'sc_175.png', 'sc_176.png', 'sc_177.png', 'sc_178.png', 'sc_179.png', 'sc_18.png', 'sc_180.png', 'sc_181.png', 'sc_182.png', 'sc_183.png', 'sc_184.png', 'sc_185.png', 'sc_186.png', 'sc_187.png', 'sc_188.png', 'sc_189.png', 'sc_19.png', 'sc_190.png', 'sc_191.png', 'sc_192.png', 'sc_193.png', 'sc_194.png', 'sc_195.png', 'sc_196.png', 'sc_197.png', 'sc_198.png', 'sc_199.png', 'sc_2.png', 'sc_20.png', 'sc_200.png', 'sc_201.png', 'sc_202.png', 'sc_203.png', 'sc_204.png', 'sc_205.png', 'sc_206.png', 'sc_207.png', 'sc_208.png', 'sc_209.png', 'sc_21.png', 'sc_210.png', 'sc_211.png', 'sc_212.png', 'sc_213.png', 'sc_214.png', 'sc_215.png', 'sc_216.png', 'sc_217.png', 'sc_218.png', 'sc_219.png', 'sc_22.png', 'sc_220.png', 'sc_221.png', 'sc_222.png', 'sc_223.png', 'sc_224.png', 'sc_225.png', 'sc_226.png', 'sc_227.png', 'sc_228.png', 'sc_229.png', 'sc_23.png', 'sc_230.png', 'sc_231.png', 'sc_232.png', 'sc_233.png', 'sc_234.png', 'sc_235.png', 'sc_236.png', 'sc_237.png', 'sc_238.png', 'sc_239.png', 'sc_24.png', 'sc_240.png', 'sc_241.png', 'sc_242.png', 'sc_243.png', 'sc_244.png', 'sc_245.png', 'sc_246.png', 'sc_247.png', 'sc_248.png', 'sc_249.png', 'sc_25.png', 'sc_250.png', 'sc_251.png', 'sc_252.png', 'sc_253.png', 'sc_254.png', 'sc_255.png', 'sc_256.png', 'sc_257.png', 'sc_258.png', 'sc_259.png', 'sc_26.png', 'sc_260.png', 'sc_261.png', 'sc_262.png', 'sc_263.png', 'sc_264.png', 'sc_265.png', 'sc_266.png', 'sc_267.png', 'sc_268.png', 'sc_269.png', 'sc_27.png', 'sc_270.png', 'sc_271.png', 'sc_272.png', 'sc_273.png', 'sc_274.png', 'sc_275.png', 'sc_276.png', 'sc_277.png', 'sc_278.png', 'sc_279.png', 'sc_28.png', 'sc_280.png', 'sc_281.png', 'sc_282.png', 'sc_283.png', 'sc_284.png', 'sc_285.png', 'sc_286.png', 'sc_287.png', 'sc_288.png', 'sc_289.png', 'sc_29.png', 'sc_290.png', 'sc_291.png', 'sc_292.png', 'sc_293.png', 'sc_294.png', 'sc_295.png', 'sc_296.png', 'sc_297.png', 'sc_298.png', 'sc_299.png', 'sc_3.png', 'sc_30.png', 'sc_300.png', 'sc_301.png', 'sc_302.png', 'sc_303.png', 'sc_304.png', 'sc_305.png', 'sc_306.png', 'sc_307.png', 'sc_308.png', 'sc_309.png', 'sc_31.png', 'sc_310.png', 'sc_311.png', 'sc_312.png', 'sc_313.png', 'sc_314.png', 'sc_315.png', 'sc_316.png', 'sc_317.png', 'sc_318.png', 'sc_319.png', 'sc_32.png', 'sc_320.png', 'sc_321.png', 'sc_322.png', 'sc_323.png', 'sc_324.png', 'sc_325.png', 'sc_326.png', 'sc_327.png', 'sc_33.png', 'sc_34.png', 'sc_35.png', 'sc_36.png', 'sc_37.png', 'sc_38.png', 'sc_39.png', 'sc_4.png', 'sc_40.png', 'sc_41.png', 'sc_42.png', 'sc_43.png', 'sc_44.png', 'sc_45.png', 'sc_46.png', 'sc_47.png', 'sc_48.png', 'sc_49.png', 'sc_5.png', 'sc_50.png', 'sc_51.png', 'sc_52.png', 'sc_53.png', 'sc_54.png', 'sc_55.png', 'sc_56.png', 'sc_57.png', 'sc_58.png', 'sc_59.png', 'sc_6.png', 'sc_60.png', 'sc_61.png', 'sc_62.png', 'sc_63.png', 'sc_64.png', 'sc_65.png', 'sc_66.png', 'sc_67.png', 'sc_68.png', 'sc_69.png', 'sc_7.png', 'sc_70.png', 'sc_71.png', 'sc_72.png', 'sc_73.png', 'sc_74.png', 'sc_75.png', 'sc_76.png', 'sc_77.png', 'sc_78.png', 'sc_79.png', 'sc_8.png', 'sc_80.png', 'sc_81.png', 'sc_82.png', 'sc_83.png', 'sc_84.png', 'sc_85.png', 'sc_86.png', 'sc_87.png', 'sc_88.png', 'sc_89.png', 'sc_9.png', 'sc_90.png', 'sc_91.png', 'sc_92.png', 'sc_93.png', 'sc_94.png', 'sc_95.png', 'sc_96.png', 'sc_97.png', 'sc_98.png', 'sc_99.png']
+
+
+
+
+All done in 1392.8956079483032
+
+Water screenshots: 0
+[]
+
+
+Grass screenshots: 0
+[]
+
+
+Other screenshots: 327
+['sc_1.png', 'sc_10.png', 'sc_100.png', 'sc_101.png', 'sc_102.png', 'sc_103.png', 'sc_104.png', 'sc_105.png', 'sc_106.png', 'sc_107.png', 'sc_108.png', 'sc_109.png', 'sc_11.png', 'sc_110.png', 'sc_111.png', 'sc_112.png', 'sc_113.png', 'sc_114.png', 'sc_115.png', 'sc_116.png', 'sc_117.png', 'sc_118.png', 'sc_119.png', 'sc_12.png', 'sc_120.png', 'sc_121.png', 'sc_122.png', 'sc_123.png', 'sc_124.png', 'sc_125.png', 'sc_126.png', 'sc_127.png', 'sc_128.png', 'sc_129.png', 'sc_13.png', 'sc_130.png', 'sc_131.png', 'sc_132.png', 'sc_133.png', 'sc_134.png', 'sc_135.png', 'sc_136.png', 'sc_137.png', 'sc_138.png', 'sc_139.png', 'sc_14.png', 'sc_140.png', 'sc_141.png', 'sc_142.png', 'sc_143.png', 'sc_144.png', 'sc_145.png', 'sc_146.png', 'sc_147.png', 'sc_148.png', 'sc_149.png', 'sc_15.png', 'sc_150.png', 'sc_151.png', 'sc_152.png', 'sc_153.png', 'sc_154.png', 'sc_155.png', 'sc_156.png', 'sc_157.png', 'sc_158.png', 'sc_159.png', 'sc_16.png', 'sc_160.png', 'sc_161.png', 'sc_162.png', 'sc_163.png', 'sc_164.png', 'sc_165.png', 'sc_166.png', 'sc_167.png', 'sc_168.png', 'sc_169.png', 'sc_17.png', 'sc_170.png', 'sc_171.png', 'sc_172.png', 'sc_173.png', 'sc_174.png', 'sc_175.png', 'sc_176.png', 'sc_177.png', 'sc_178.png', 'sc_179.png', 'sc_18.png', 'sc_180.png', 'sc_181.png', 'sc_182.png', 'sc_183.png', 'sc_184.png', 'sc_185.png', 'sc_186.png', 'sc_187.png', 'sc_188.png', 'sc_189.png', 'sc_19.png', 'sc_190.png', 'sc_191.png', 'sc_192.png', 'sc_193.png', 'sc_194.png', 'sc_195.png', 'sc_196.png', 'sc_197.png', 'sc_198.png', 'sc_199.png', 'sc_2.png', 'sc_20.png', 'sc_200.png', 'sc_201.png', 'sc_202.png', 'sc_203.png', 'sc_204.png', 'sc_205.png', 'sc_206.png', 'sc_207.png', 'sc_208.png', 'sc_209.png', 'sc_21.png', 'sc_210.png', 'sc_211.png', 'sc_212.png', 'sc_213.png', 'sc_214.png', 'sc_215.png', 'sc_216.png', 'sc_217.png', 'sc_218.png', 'sc_219.png', 'sc_22.png', 'sc_220.png', 'sc_221.png', 'sc_222.png', 'sc_223.png', 'sc_224.png', 'sc_225.png', 'sc_226.png', 'sc_227.png', 'sc_228.png', 'sc_229.png', 'sc_23.png', 'sc_230.png', 'sc_231.png', 'sc_232.png', 'sc_233.png', 'sc_234.png', 'sc_235.png', 'sc_236.png', 'sc_237.png', 'sc_238.png', 'sc_239.png', 'sc_24.png', 'sc_240.png', 'sc_241.png', 'sc_242.png', 'sc_243.png', 'sc_244.png', 'sc_245.png', 'sc_246.png', 'sc_247.png', 'sc_248.png', 'sc_249.png', 'sc_25.png', 'sc_250.png', 'sc_251.png', 'sc_252.png', 'sc_253.png', 'sc_254.png', 'sc_255.png', 'sc_256.png', 'sc_257.png', 'sc_258.png', 'sc_259.png', 'sc_26.png', 'sc_260.png', 'sc_261.png', 'sc_262.png', 'sc_263.png', 'sc_264.png', 'sc_265.png', 'sc_266.png', 'sc_267.png', 'sc_268.png', 'sc_269.png', 'sc_27.png', 'sc_270.png', 'sc_271.png', 'sc_272.png', 'sc_273.png', 'sc_274.png', 'sc_275.png', 'sc_276.png', 'sc_277.png', 'sc_278.png', 'sc_279.png', 'sc_28.png', 'sc_280.png', 'sc_281.png', 'sc_282.png', 'sc_283.png', 'sc_284.png', 'sc_285.png', 'sc_286.png', 'sc_287.png', 'sc_288.png', 'sc_289.png', 'sc_29.png', 'sc_290.png', 'sc_291.png', 'sc_292.png', 'sc_293.png', 'sc_294.png', 'sc_295.png', 'sc_296.png', 'sc_297.png', 'sc_298.png', 'sc_299.png', 'sc_3.png', 'sc_30.png', 'sc_300.png', 'sc_301.png', 'sc_302.png', 'sc_303.png', 'sc_304.png', 'sc_305.png', 'sc_306.png', 'sc_307.png', 'sc_308.png', 'sc_309.png', 'sc_31.png', 'sc_310.png', 'sc_311.png', 'sc_312.png', 'sc_313.png', 'sc_314.png', 'sc_315.png', 'sc_316.png', 'sc_317.png', 'sc_318.png', 'sc_319.png', 'sc_32.png', 'sc_320.png', 'sc_321.png', 'sc_322.png', 'sc_323.png', 'sc_324.png', 'sc_325.png', 'sc_326.png', 'sc_327.png', 'sc_33.png', 'sc_34.png', 'sc_35.png', 'sc_36.png', 'sc_37.png', 'sc_38.png', 'sc_39.png', 'sc_4.png', 'sc_40.png', 'sc_41.png', 'sc_42.png', 'sc_43.png', 'sc_44.png', 'sc_45.png', 'sc_46.png', 'sc_47.png', 'sc_48.png', 'sc_49.png', 'sc_5.png', 'sc_50.png', 'sc_51.png', 'sc_52.png', 'sc_53.png', 'sc_54.png', 'sc_55.png', 'sc_56.png', 'sc_57.png', 'sc_58.png', 'sc_59.png', 'sc_6.png', 'sc_60.png', 'sc_61.png', 'sc_62.png', 'sc_63.png', 'sc_64.png', 'sc_65.png', 'sc_66.png', 'sc_67.png', 'sc_68.png', 'sc_69.png', 'sc_7.png', 'sc_70.png', 'sc_71.png', 'sc_72.png', 'sc_73.png', 'sc_74.png', 'sc_75.png', 'sc_76.png', 'sc_77.png', 'sc_78.png', 'sc_79.png', 'sc_8.png', 'sc_80.png', 'sc_81.png', 'sc_82.png', 'sc_83.png', 'sc_84.png', 'sc_85.png', 'sc_86.png', 'sc_87.png', 'sc_88.png', 'sc_89.png', 'sc_9.png', 'sc_90.png', 'sc_91.png', 'sc_92.png', 'sc_93.png', 'sc_94.png', 'sc_95.png', 'sc_96.png', 'sc_97.png', 'sc_98.png', 'sc_99.png']
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 20:44:52.750096
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 20:45:11.519421
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:44:32.921540
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:44:58.146692
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:46:11.924040
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:47:27.861692
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:48:16.104344
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:49:46.345467
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:53:34.774030
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:53:45.985442
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:54:00.214702
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 22:57:09.135843
+
+
+
+Image 1 has been done in 0.3440666198730469
+Image 2 has been done in 0.2540576457977295
+Image 3 has been done in 0.49277496337890625
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:21:58.191208
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:22:10.994415
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:22:19.118061
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:22:49.074926
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:22:57.694481
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:23:33.734927
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:23:53.717593
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:24:21.906191
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:24:54.521915
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:25:03.663016
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:40:49.308037
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-28 23:54:12.216907
+
+
+
+Image 1 has been done in 0 hours, 0 minutes and 0 seconds.
+Image 2 has been done in 0 hours, 0 minutes and 1 seconds.
+Image 3 has been done in 0 hours, 0 minutes and 0 seconds.
+Image 4 has been done in 0 hours, 0 minutes and 0 seconds.
+ended in 76 mins
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 01:09:28.499927
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 01:10:07.179628
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 11:32:49.352733
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 11:35:27.804182
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 11:35:52.392869
+
+
+
+Image 1 has been done in 0 hours, 7 minutes and -28 seconds.
+Image 2 has been done in 0 hours, 7 minutes and 14 seconds.
+Image 3 has been done in 0 hours, 7 minutes and -6 seconds.
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 12:58:42.909248
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 12:59:52.479702
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 13:01:36.369259
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 13:02:35.903702
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 13:03:25.565589
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 13:03:47.790202
+
+
+
+Image 1 has been done in 0 hours, 24 minutes and 0 seconds.
+Image 2 has been done in 0 hours, 21 minutes and 45 seconds.
+Image 3 has been done in 0 hours, 23 minutes and 38 seconds.
+Image 4 has been done in 0 hours, 22 minutes and 2 seconds.
+Image 5 has been done in 0 hours, 22 minutes and 23 seconds.
+Image 6 has been done in 0 hours, 21 minutes and 14 seconds.
+Image 7 has been done in 0 hours, 23 minutes and 3 seconds.
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 15:52:16.554157
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 15:57:27.827981
+
+
+
+Image 1 has been done in 0 hours, 3 minutes and 46 seconds.
+Image 2 has been done in 0 hours, 3 minutes and 51 seconds.
+Image 3 has been done in 0 hours, 3 minutes and 49 seconds.
+Image 4 has been done in 0 hours, 3 minutes and 52 seconds.
+Image 5 has been done in 0 hours, 3 minutes and 51 seconds.
+Image 6 has been done in 0 hours, 3 minutes and 51 seconds.
+Image 7 has been done in 0 hours, 3 minutes and 57 seconds.
+Image 8 has been done in 0 hours, 3 minutes and 53 seconds.
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 16:29:22.472952
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 16:29:39.508952
+
+
+
+Image 1 has been done in 0 hours, 1 minutes and 8 seconds.
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 16:43:52.579842
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021-12-29 16:44:13.045034
+
+
+
+Image 1 has been done in 0 hours, 3 minutes and 52 seconds.
+Image 2 has been done in 0 hours, 3 minutes and 50 seconds.
+Image 3 has been done in 0 hours, 3 minutes and 47 seconds.
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021/12/31, 23:58:8
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2021/12/31, 23:58:56
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2022/1/1, 0:0:8
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2022/1/1, 0:3:36
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2022/1/1, 0:6:11
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2022/1/1, 0:6:54
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2022/1/1, 0:7:49
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2022/1/1, 0:11:55
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+Started at 2022/1/1, 0:16:40
+
+
